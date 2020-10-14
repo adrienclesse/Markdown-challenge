@@ -29,7 +29,8 @@
     * Tennis
     * Gym
     * Football  
-  
+  <br>
+## Don't hesitate asking for help
 
 ### You can always count on me if you feel down, need more motivation or need any explaination.
 
@@ -42,3 +43,4 @@
 
 *I've been kicked by a kangoroo*
 
+[Previous](https://github.com/A-Maarij/markdown-challenge/blob/main/Markup.md) /[Next](https://www.google.com)
