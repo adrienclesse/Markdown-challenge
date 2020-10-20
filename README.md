@@ -14,7 +14,7 @@
 | Birthday     | 31/07/1992 | 
 | Favourite color      | Red      |
 | Favourite food    |Kebab      | 
-| Pinneapple on pizza: |&#9745;] YES /&#9744; NO      | 
+| Pinneapple on pizza: |&#9745;] YES /&#9744; NO      |markdown-to-html 
 
 <br>
 
